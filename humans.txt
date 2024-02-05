@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   chitra s/w develop chitra@gmail.com
 
 # THANKS
 
