@@ -3,7 +3,7 @@
 
 changes from feature branch too
 
-This repository is for showing how Git and GitHub work................
+This repository is for showing how Git and GitHub work.
 
 ## Purpose
 <<<<<<< HEAD
@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 ###Copyrights
 2019Git.training
 =======
-//////////////////////////////////////
+
 Sample website with plenty of files for demos
 
 ##Contribute
